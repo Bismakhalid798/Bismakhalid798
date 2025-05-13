@@ -5,7 +5,7 @@
 ## 👋 About Me
 
 I'm an AI Engineer with deep expertise in modern software development, deep learning neural networks, and cutting-edge AI systems.  
-With a strong record of collaborations with startups and innovation centers around the globe, I specialize in designing, developing, and deploying scalable ML/AI solutions across various domains.
+I specialize in designing, developing, and deploying scalable ML/AI solutions across various domains.
 
 ---
 
