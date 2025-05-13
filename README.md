@@ -61,7 +61,6 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 |--------------|--------------------------|
 | **Deep Learning** | CNNs, RNNs, GANs, Transformers, YOLO, TensorFlow, PyTorch, Keras |
 | **Computer Vision** | OpenCV, Dlib, CUDA, MediaPipe |
-| **Speech & Audio** | Librosa, SpeechRecognition, Torchaudio, Deepgram, SpeechBrain, Parselmouth |
 | **Frontend** | React, HTML5, CSS |
 | **Backend** | FastAPI, MongoDB |
 | **DevOps/MLOps** | Docker, GitHub, HuggingFace, Kubernetes |
