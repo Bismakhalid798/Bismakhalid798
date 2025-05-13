@@ -12,7 +12,7 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 ## 🚀 My Core Expertise
 
 ### 🧠 Deep Learning
-- Architectures: CNNs, RNNs, LSTMs, GANs, YOLO, Transformers
+- Architectures: CNNs, RNNs, LSTMs, GANs, YOLO, Transformers, ViT
 - Frameworks: TensorFlow, PyTorch, Keras
 - Model training, Pretrained model fine-tuning, and large dataset training
 - Regularization, optimization, and custom loss functions
@@ -59,7 +59,7 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 
 | **Category** | **Tools & Frameworks** |
 |--------------|--------------------------|
-| **Deep Learning** | CNNs, RNNs, GANs, Transformers, YOLO, TensorFlow, PyTorch, Keras |
+| **Deep Learning** | CNNs, RNNs, GANs, Transformers, YOLO, ViT, TensorFlow, PyTorch, Keras |
 | **Computer Vision** | OpenCV, Dlib, CUDA, MediaPipe |
 | **Frontend** | React, HTML5, CSS |
 | **Backend** | FastAPI, MongoDB |
