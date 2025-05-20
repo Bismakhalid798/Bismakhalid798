@@ -51,8 +51,6 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - **Containerization & Virtualization**: Docker, Kubernetes
 - **DevOps**: CI/CD pipelines 
 - **Testing**: pytest
-- **Version Control**: Git, GitHub
-
 ---
 
 ## 🛠️ Favorite Tools & Frameworks
@@ -63,7 +61,7 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 | **Computer Vision** | OpenCV, Dlib, CUDA, MediaPipe |
 | **Frontend** | React, HTML5, CSS |
 | **Backend** | FastAPI, MongoDB |
-| **DevOps/MLOps** | Docker, GitHub, HuggingFace, Kubernetes |
+| **DevOps/MLOps** | Docker, GitHub, HuggingFace|
 
 ---
 
