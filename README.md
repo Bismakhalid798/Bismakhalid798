@@ -49,7 +49,7 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - **Database Management**: pgAdmin (PostgreSQL)
 -  **API Development**: RESTful APIs
 - **Containerization & Virtualization**: Docker, Kubernetes
-- **DevOps**: CI/CD pipelines, GitHub Actions 
+- **DevOps**: CI/CD pipelines 
 - **Testing**: pytest
 - **Version Control**: Git, GitHub
 
