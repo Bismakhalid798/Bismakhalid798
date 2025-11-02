@@ -1,5 +1,5 @@
-# 🤖 AI Engineer | Deep Learning | Computer Vision | Gen AI | Applied NLP
-📍 Open to contract, remote, and collaborative research opportunities
+# 🤖 AI Engineer | Deep Learning | Computer Vision | Gen AI | Applied NLP  
+📍 Open to contract, remote, and collaborative research opportunities  
 ---
 
 ## 👋 About Me
@@ -18,26 +18,49 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - Regularization, optimization, and custom loss functions
 - GPU acceleration and parallel model training
 
+
 ### 👁️ Computer Vision
 - Image & video processing pipelines
 - Object detection, segmentation, tracking
 - Facial recognition & motion analysis systems
 - Biometric verification using fingerprints
-- U-Net: Specialized architecture for semantic segmentation, commonly used in medical image segmentation and other pixel-level classification tasks. 
+- U-Net: Specialized architecture for semantic segmentation, commonly used in medical image segmentation and other pixel-level classification tasks.
 - Tools: OpenCV, Dlib, CUDA, MediaPipe
 - Real-time CV algorithm design and optimization
+- 🔍 **Deepfake Detection**: Identity spoofing prevention, facial artifact analysis, and authenticity verification
 
 ### 🧬 Generative AI
 - 🎨 **GANs**: Creative & commercial content generation  
 - 🌀 **Deepfakes**: Face-swapping & synthetic media generation using GANs  
-- 🎮 **MarioGPT**: Procedural content generation for game environments
-- 🌐 **PointNet (3D Analysis)**: Direct 3D point cloud processing for object recognition and segmentation
+- 🔍 **Deepfake Detection**: Identifying AI-generated or manipulated content  
+- 🎮 **MarioGPT**: Procedural content generation for game environments  
+- 🌐 **PointNet (3D Analysis)**: Direct 3D point cloud processing for object recognition and segmentation  
 
 ### 🗣️ Natural Language Processing (NLP)
 - Named Entity Recognition (NER), sentiment analysis, text classification, text generation
 - Transformer-based fine-tuning (LSTMs, BERT, etc.)  
 - Tokenization, POS tagging, dependency parsing, and semantic similarity  
-- Tools: spaCy, NLTK, HuggingFace, Scikit-learn, fuzzyWuzzy 
+- Tools: spaCy, NLTK, HuggingFace, Scikit-learn, fuzzyWuzzy  
+
+---
+
+## ⚖️ Rule-Based Decision Systems (Durable Rules – Python)
+
+- Experience building **real-time, event-driven rule engines** using **Durable Rules**  
+- Used for fraud detection, sanctions screening, and AML decision workflows  
+- Supports **stateful reasoning, forward-chaining, and hybrid ML + rule pipelines**  
+- Rules can be updated externally without modifying core model code  
+- Works with FastAPI, MongoDB, async workers, and ML inference services
+---
+
+## 🌍 3D Geospatial Visualization & Simulation (CesiumJS)
+
+- 3D globe and map-based visualization using **CesiumJS**
+- Integration of satellite imagery, terrain data, and 3D Tiles
+- Real-time animation of moving entities (aircraft, vehicles, markers, paths, etc.)
+- Custom shaders, camera control, and time-dynamic visualization
+- Experience with Cesium ion datasets, glTF/GLB 3D models, and geospatial coordinate systems
+- Applications: flight path simulation  
 
 ---
 
@@ -47,10 +70,11 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - **Frameworks**: FastAPI, Flask, Django
 - **Databases**: SQL (PostgreSQL, MySQL, SQLite), NoSQL (MongoDB)
 - **Database Management**: pgAdmin (PostgreSQL)
--  **API Development**: RESTful APIs
+- **API Development**: RESTful APIs
 - **Containerization & Virtualization**: Docker, Kubernetes
 - **DevOps**: CI/CD pipelines 
 - **Testing**: pytest
+
 ---
 
 ## 🛠️ Favorite Tools & Frameworks
@@ -59,6 +83,8 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 |--------------|--------------------------|
 | **Deep Learning** | CNNs, RNNs, GANs, Transformers, YOLO, ViT, TensorFlow, PyTorch, Keras |
 | **Computer Vision** | OpenCV, Dlib, CUDA, MediaPipe |
+| **Rule Engines** | Durable Rules, Fuzzy Logic Systems |
+| **3D Visualization** | CesiumJS, glTF/GLB, 3D Tiles |
 | **Frontend** | React, HTML5, CSS |
 | **Backend** | FastAPI, MongoDB |
 | **DevOps/MLOps** | Docker, GitHub, HuggingFace|
@@ -72,4 +98,4 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 
 ---
 
-⭐ *Feel free to explore my pinned repositories to see my work in action.*
+⭐ *Feel free to explore my pinned repositories to see my work in action.*  
