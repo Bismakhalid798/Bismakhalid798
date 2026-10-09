@@ -18,7 +18,17 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - Regularization, optimization, and custom loss functions
 - GPU acceleration and parallel model training
 
-
+### 📈 Time Series & Forecasting
+- Sequence modeling pipelines for multivariate temporal data
+- Forecasting, trend analysis, and trajectory prediction
+- Reconstruction-based anomaly detection on sequential signals
+- Classification of complex temporal signatures, reaching 97% accuracy
+- Environmental forecasting and predictive scheduling
+- Architectures: TCN, TFT, Transformers, LSTM / Mogrifier LSTM, XGBoost
+- Tools: Darts, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+- Real-time data pipelines with predictive alerting dashboards (Streamlit)
+- 🔍 **Anomaly & Trend Detection**: Early-warning alerts, pattern deviation analysis, and trajectory forecasting
+  
 ### 👁️ Computer Vision
 - Image & video processing pipelines
 - Object detection, segmentation, tracking
@@ -38,9 +48,10 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 
 ### 🗣️ Natural Language Processing (NLP)
 - Named Entity Recognition (NER), sentiment analysis, text classification, text generation
-- Transformer-based fine-tuning (LSTMs, BERT, etc.)  
+- Transformer-based fine-tuning (LSTMs, BERT, etc.)
+- Audio-Transcription (faster-whisper, whisper flow)
 - Tokenization, POS tagging, dependency parsing, and semantic similarity  
-- Tools: spaCy, NLTK, HuggingFace, Scikit-learn, fuzzyWuzzy  
+- Tools: spaCy, NLTK, HuggingFace, Scikit-learn, fuzzyWuzzy, whisper, CTranslate2  
 
 ---
 
@@ -67,12 +78,12 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 ## 🧰 Related Peripheral Skills
 
 ### 🧪 Backend Development
-- **Frameworks**: FastAPI, Flask, Django
+- **Frameworks**: FastAPI, Flask
 - **Databases**: SQL (PostgreSQL, MySQL, SQLite), NoSQL (MongoDB)
 - **Database Management**: pgAdmin (PostgreSQL)
 - **API Development**: RESTful APIs
 - **Containerization & Virtualization**: Docker, Kubernetes
-- **DevOps**: CI/CD pipelines 
+- **DevOps**: CI/CD pipelines
 - **Testing**: pytest
 
 ---
@@ -83,11 +94,12 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 |--------------|--------------------------|
 | **Deep Learning** | CNNs, RNNs, GANs, Transformers, YOLO, ViT, TensorFlow, PyTorch, Keras |
 | **Computer Vision** | OpenCV, Dlib, CUDA, MediaPipe |
+| **Time Series & Forecasting** | TCN, TFT, LSTM / Mogrifier LSTM, XGBoost, Darts, Scikit-learn, Pandas, NumPy |
 | **Rule Engines** | Durable Rules, Fuzzy Logic Systems |
-| **3D Visualization** | CesiumJS, glTF/GLB, 3D Tiles |
+| **3D Visualization** | CesiumJS, glTF/GLB, 3D Tiles, DTED |
 | **Frontend** | React, HTML5, CSS |
 | **Backend** | FastAPI, MongoDB |
-| **DevOps/MLOps** | Docker, GitHub, HuggingFace|
+| **DevOps/MLOps** | Docker, GitHub, HuggingFace |
 
 ---
 
