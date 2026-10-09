@@ -34,7 +34,6 @@ I specialize in designing, developing, and deploying scalable ML/AI solutions ac
 - Object detection, segmentation, tracking
 - Facial recognition & motion analysis systems
 - Biometric verification using fingerprints
-- U-Net: Specialized architecture for semantic segmentation, commonly used in medical image segmentation and other pixel-level classification tasks.
 - Tools: OpenCV, Dlib, CUDA, MediaPipe
 - Real-time CV algorithm design and optimization
 - 🔍 **Deepfake Detection**: Identity spoofing prevention, facial artifact analysis, and authenticity verification
